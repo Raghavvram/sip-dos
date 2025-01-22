@@ -6,7 +6,7 @@ Here's a general outline of how you might set up a SIP flood attack in your cont
 
 ### Step 1: Set Up Your Environment
 1. **Windows Machine (Victim):**
-   - Ensure your Windows machine has a SIP service running. You can use software like (Asterisk)[https://github.com/asterisk/asterisk] or (FreeSWITCH)[https://github.com/signalwire/freeswitch].
+   - Ensure your Windows machine has a SIP service running. You can use software like Asterisk(https://github.com/asterisk/asterisk) or FreeSWITCH(https://github.com/signalwire/freeswitch).
 
 2. **Kali Linux (Attacker):**
    - Ensure your Kali Linux machine is set up correctly and connected to the same private network as the victim machine.

@@ -44,4 +44,4 @@ Once you've gathered sufficient data, stop the attack using `Ctrl+C` in the term
 
 Remember, ethical hacking and cybersecurity experiments should always be conducted within legal boundaries and with proper authorization.
 
-If you have any specific questions or need further assistance, feel free to ask!
+

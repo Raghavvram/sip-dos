@@ -42,6 +42,3 @@ Keep an eye on the CPU and memory usage on both the victim and attacker machines
 ### Step 6: Terminate the Attack
 Once you've gathered sufficient data, stop the attack using `Ctrl+C` in the terminal where SIPp is running.
 
-Remember, ethical hacking and cybersecurity experiments should always be conducted within legal boundaries and with proper authorization.
-
-
